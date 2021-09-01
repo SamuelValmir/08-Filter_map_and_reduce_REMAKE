@@ -11,8 +11,9 @@
 
 ## Technologies:
 <div>
-  <img width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+  <img width="50em" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img width="50em" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img width="50em" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
 </div>
 
 ## Contributing
